@@ -1,4 +1,4 @@
-=<h1 align="center">Hi 👋, I'm Michael Lam</h1>
+=<h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">Software Engineer and Volleyball Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mlamchamkee&label=Profile%20views&color=0e75b6&style=flat" alt="mlamchamkee" /> </p>
