@@ -1,13 +1,37 @@
-=<h1 align="center">Hi 👋, I'm Michael</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Michael</h1>
 <h3 align="center">Software Engineer and Volleyball Enthusiast</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mlamchamkee&label=Profile%20views&color=0e75b6&style=flat" alt="mlamchamkee" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-<a href="mailto:mlamchamkee@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/apple-mail.png" alt="mlamchamkee" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/mlamchamkee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mlamchamkee" height="30" width="40" /></a>
-<a href="https://medium.com/@mlamchamkee" target="_blank"><img align="center" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="@mlamchamkee" height="30" width="30" /></a>
-<a href="https://leetcode.com/mlamchamkee/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mlamchamkee" height="30" width="40" /></a>
+<a href="mailto:mlamchamkee@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mlamchamkee" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mlamchamkee" /></a>
+ <a href="https://discordapp.com/users/999680310742614046" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="mlamchamkee" /></a>
 </div>
+
+
+<h3 align="center">Skills:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,html,css" height="30"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,materialui,django,flask,nodejs,express,postgres,mongodb,jest" height="30"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,webpack,heroku" height="30"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/mlamchamkee/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlamchamkee&layout=compact"/>
+  </a>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mlamchamkee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mlamchamkee" /> </p>
