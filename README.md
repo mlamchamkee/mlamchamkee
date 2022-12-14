@@ -27,11 +27,12 @@
   </a>
 </p>
 
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mlamchamkee/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlamchamkee&layout=compact"/>
   </a>
+</p> -->
+<p>&nbsp;</p> 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mlamchamkee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mlamchamkee" /> 
 </p>
-
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=mlamchamkee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mlamchamkee" /> </p> -->
