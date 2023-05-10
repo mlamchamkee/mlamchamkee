@@ -13,7 +13,7 @@
 <h3 align="center">Skills:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,html,css" height="30"/>
+    <img src="https://skillicons.dev/icons?i=py,ts,js,java,html,css" height="30"/>
   </a>
 </p>
 <p align="center">
