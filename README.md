@@ -13,17 +13,17 @@
 <h3 align="center">Skills:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,java,html,css" height="30"/>
+    <img src="https://skillicons.dev/icons?i=py,java,ts,js,html,css" height="30"/>
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,materialui,django,flask,nodejs,express,postgres,mongodb,jest" height="30"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,react,redux,materialui,postgres,mongodb,jest" height="30"/>
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,docker,webpack,heroku" height="30"/>
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,maven,webpack,jenkins" height="30"/>
   </a>
 </p>
 
